@@ -1,0 +1,5 @@
+ls: Lista arquivos no diretório
+cd: entra no diretório escolhido
+cd ..: Volta ao ultimo diretório
+mkdir: Cria diretório
+git add . ou git add -a: adiciona os arquivos ao git
